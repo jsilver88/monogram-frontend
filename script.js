@@ -1,4 +1,4 @@
-const countDownDate = new Date('Jan 20, 2022 1:00:00').getTime()
+const countDownDate = new Date('March 1, 2022 1:00:00').getTime()
 const daysEl = document.getElementById('day')
 const hoursEl = document.getElementById('hours')
 const minutesEl = document.getElementById('minutes')
